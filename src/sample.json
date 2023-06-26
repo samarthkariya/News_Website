@@ -1,0 +1,93 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Devindra Hardawar",
+    "title": "Engadget Podcast: Reddit’s revolt, MacBook Air 15 and Mac Studio reviews",
+    "description": "What good is Reddit without the support of its community? This week, Cherlynn and Devindra discuss the recent subreddit revolts, following the company’s decision to dramatically increase the cost of its API for third parties. They’re joined by Ryan Broderick,…",
+    "url": "https://www.engadget.com/engadget-podcast-reddit-revolt-macbook-air-15-review-123056098.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tdmZDSyzf3jjlI17q4HATQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-05/f43b53b0-909f-11ea-87fd-d8d721459924.cf.jpg",
+    "publishedAt": "2023-06-16T12:30:56Z",
+    "content": "What good is Reddit without the support of its community? This week, Cherlynn and Devindra discuss the recent subreddit revolts, following the companys decision to dramatically increase the cost of i… [+1623 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "Will Shanklin",
+    "title": "Sony Bravia TV owners can soon take Zoom calls from the couch",
+    "description": "Sony Bravia TVs will be the first hardware to support the upcoming Zoom for TV app on Google Play. Although remote work has dwindled as corporations beckon their underlings back to the office, those still enjoying work-from-home or hybrid arrangements could s…",
+    "url": "https://www.engadget.com/sony-bravia-tv-owners-can-soon-take-zoom-calls-from-the-couch-213024871.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6kH16uAf.nw8X6YoACGGig--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/28953420-0c83-11ee-977b-e7309fecbc9f.cf.jpg",
+    "publishedAt": "2023-06-16T21:30:24Z",
+    "content": "Sony Bravia TVs will be the first hardware to support the upcoming Zoom for TV app on Google Play. Although remote work has dwindled as corporations beckon their underlings back to the office, those … [+1478 chars]"
+  },
+  {
+    "source": {
+      "id": "the-verge",
+      "name": "The Verge"
+    },
+    "author": "Sheena Vasani",
+    "title": "Here are more than 75 digital gifts you can still pick up for Father’s Day",
+    "description": "Whether your dad is a film lover or a fitness fan, we’ve rounded up a list of digital gifts you can buy online no matter what your father is into or what your budget is.",
+    "url": "https://www.theverge.com/23642026/best-digital-gift-ideas-online-cards-subscriptions",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/HfGkuc2aMaf2a_ncOePEY3OuCvQ=/0x0:920x613/1200x628/filters:focal(460x307:461x308)/cdn.vox-cdn.com/uploads/chorus_asset/file/24731235/pelotonapp.jpg",
+    "publishedAt": "2023-06-16T17:15:04Z",
+    "content": "Here are more than 75 digital gifts you can still pick up for Fathers Day\r\nHere are more than 75 digital gifts you can still pick up for Fathers Day\r\n / If you still havent picked up a Fathers Day gi… [+10461 chars]"
+  },
+  {
+    "source": {
+      "id": "ars-technica",
+      "name": "Ars Technica"
+    },
+    "author": "Chuong Nguyen",
+    "title": "Dealmaster: Summer savings on laptops, smartphones, and smartwatches",
+    "description": "With savings on laptops and smartphones, now is a great time to upgrade your gear.",
+    "url": "https://arstechnica.com/shopping/2023/06/dealmaster-summer-savings-on-laptops-smartphones-and-smartwatches/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/07/180711_MacBookPro_NewYorkCity_BK_41579-760x380.jpg",
+    "publishedAt": "2023-06-16T11:15:28Z",
+    "content": "0 with \r\nIf you haven't started your summer vacation, you can be opportunistic and save money by refreshing your laptop. We've rounded up some of the top deals from Apple, Dell, HP, and Lenovo if you… [+9540 chars]"
+  }
+]
+}
+
+
+
+
+
+
+
+
+
+<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+<div className="container-fluid">
+<Link className="navbar-brand" to="/">NewsMonkey</Link>
+<button className="navbar-toggler" type="button" data-bs-toggle="collapse"
+data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+aria-expanded="false" aria-label="Toggle navigation">
+<span className="navbar-toggler-icon"></span>
+</button>
+<div className="collapse navbar-collapse" id="navbarSupportedContent">
+<ul className="navbar-nav me-auto mb-2 mb-lg-0">
+<li className="nav-item"><Link className="nav-link active" aria-current="page" to="/general">Home</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/business">Business</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/entertainment">Entertainment</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/health">Health</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/science">Science</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/sports">Sports</Link></li>
+<li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
+</ul>
+<form className="d-flex" role="search">
+<input className="form-control me-2" type="search" placeholder="Search"
+aria-label="Search"/>
+<button className="btn btn-outline-success" type="submit">Search</button>
+</form>
+</div>
+</div>
+</nav>
